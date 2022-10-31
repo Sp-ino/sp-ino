@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Valerio and this is my GitHub profile 👾. I'm a curious guy, who loves learning new stuff, challenging himself and nerding about technical subjects. Recently I've fallen in love with the open source paradigm and I'm eager to contribute to the GitHub community.
+- 🇮🇹  I'm from Italy
+- 🔭 I'm currently a PhD student in Electronic Engineering at Sapienza, Rome 🦉
+- 🔥  I'm passionate about electronics, mathematics and programming
+- 🚵 I also love being outside and practicing sports, especially bodyweight training, mountain biking and skating
+- 🌱 I’m currently learning Rust and smart contracts
+- 🔗 I'm collaborating with 0x7183, Last Ancestor and Toran777 on our common project BIG
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp-ino&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Sp-ino/sp-ino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
