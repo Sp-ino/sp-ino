@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Valerio and this is my GitHub profile 👾. I'm a curious guy, who loves learning new stuff, challenging himself and nerding about technical subjects. Recently I've fallen in love with the open source paradigm and I'm eager to contribute to the GitHub community.
 - 🇮🇹  I'm from Italy
-- 🔭 I'm currently a PhD student in Electronic Engineering at Sapienza, Rome 🦉
+- 🏛 I'm currently a PhD student in Electronic Engineering at Sapienza, Rome
 - 🔥  I'm passionate about electronics, mathematics and programming
 - 🚵 I also love being outside and practicing sports, especially bodyweight training, mountain biking and skating
 - 🌱 I’m currently learning Rust and smart contracts
