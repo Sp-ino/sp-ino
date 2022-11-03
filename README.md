@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Valerio and this is my GitHub profile 👾. I'm a curious guy, who loves learning new stuff, challenging himself and nerding about technical subjects. Recently I've become passionate about the open source paradigm and I'm now eager to contribute to the GitHub community.
+I'm Valerio and this is my GitHub profile 👾. I'm a curious guy, who loves learning new stuff, challenging himself and nerding about technical subjects. I'm also an open source enthusiast who's proud of being part of the GitHub community.
 
 ### About me
 - 🇮🇹  I'm from Italy
