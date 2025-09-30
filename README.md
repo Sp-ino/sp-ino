@@ -3,7 +3,7 @@ I'm Valerio and this is my GitHub profile 👾. I'm a curious guy, who loves lea
 
 ### About me
 - 🇮🇹  I'm from Italy
-- 🏛 I'm currently a PhD student in Electronic Engineering at Sapienza, Rome
+- 🏛 I am a PhD alumnus in Electronic Engineering at Sapienza, Rome
 - 🔥  I'm passionate about electronics, mathematics and programming
 - 🚵 I also love being outside and practicing sports, especially bodyweight training, mountain biking and skating
 - 📫 How to reach me: send an email to spinovale97@gmail.com
